@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\AndroidStudioProjects\test_annotation\processor\lib.iml" filepath="E:\AndroidStudioProjects\test_annotation\processor\lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_annotation/my_annotation.iml" filepath="$PROJECT_DIR$/my_annotation/my_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_processor/my_processor.iml" filepath="$PROJECT_DIR$/my_processor/my_processor.iml" />
+      <module fileurl="file://C:\Users\Administrator\Desktop\test_annotation\my_processor\processor.iml" filepath="C:\Users\Administrator\Desktop\test_annotation\my_processor\processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_annotation.iml" filepath="$PROJECT_DIR$/test_annotation.iml" />
+    </modules>
+  </component>
+</project>
